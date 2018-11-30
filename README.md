@@ -1,8 +1,6 @@
 ﻿# arenafit
 
-O projeto não vem com os modulos do node. Para você instalar basta digitar o comando abaixo no cmd dentro da pasta do projeto.
-
-npm install npm -g
+O projeto não vem com os modulos do node.
 
 Caso você não tenha instalado em sua máquina o cordova e o ionic rodar o comando abaixo também
 
