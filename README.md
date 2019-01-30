@@ -14,7 +14,7 @@ npm install
 
 <b>Arena FIT APP</b>
 
-O projeto é apenas um esboço realizado para uma academia de crossfit, o projeto original não será postado no github.
+O projeto é apenas um esboço realizado para uma academia de crossfit.
 
 Na imagem abaixo vemos a tela carregando as dicas de uma api e a imagem ao lado as formas de login.
 
@@ -28,7 +28,7 @@ Já dentro do aplicativo podemos verificar as abas de perfil e dicas sendo carre
 
 
 
-APLICATIVO TESTE.
+APLICATIVO ARENA FIT.
 
 Att,
 Felipe Almeida.
